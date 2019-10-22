@@ -21,3 +21,6 @@ Scope small.
 
 ## What's next for VR-Horror-Maze
 Small bug fixes, more maps, better AI, perhaps players can counterplay?
+
+## How do I run it?
+Download the Build folder, and run HackRUF19.exe (works on Windows)
